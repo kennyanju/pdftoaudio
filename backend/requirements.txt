@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+sqlalchemy
+databases
+httpx
+pydantic-settings
+ffmpeg-python
+python-dotenv
